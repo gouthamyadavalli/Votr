@@ -111,3 +111,4 @@ The application uses Celery for task scheduling and RabbitMQ as the message brok
 ## API Usage
 The application exposes a RESTful API for interacting with polls, options, and votes. Detailed API documentation can be found in the api.py module.
 
+![Votr App UI](./static/images/sample-ui.png)
